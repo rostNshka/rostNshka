@@ -1,14 +1,6 @@
-<blockquote style="
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
-    background-color: #262626;
-    padding: 8px;
-">
-I'm Rostislav, I'm Beginner
-<span style="color: purple; padding-inline: 8px">Web Developer</span> 
+## I'm Rostislav, I'm Beginner Web Developer
 <img style="width:64px; height:64px" class="img" src="./assets/cat.gif">
-</blockquote>
+
 
 
 ### Languages and Tools
