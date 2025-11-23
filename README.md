@@ -1,4 +1,4 @@
-<div style="
+<blockquote style="
     display: flex; 
     justify-content: center; 
     align-items: center; 
@@ -8,7 +8,7 @@
 I'm Rostislav, I'm Beginner
 <span style="color: purple; padding-inline: 8px">Web Developer</span> 
 <img style="width:64px; height:64px" class="img" src="./assets/cat.gif">
-</div>
+</blockquote>
 
 
 ### Languages and Tools
