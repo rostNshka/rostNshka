@@ -3,14 +3,11 @@
 
 
 ### Languages and Tools
-![HTML5](https://img.shields.io/badge/-HTML5-262626?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-262626?style=for-the-badge&logo=CSS&logoColor=4472bb)
 ![SASS](https://img.shields.io/badge/-SASS-262626?style=for-the-badge&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-262626?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-262626?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-262626?style=for-the-badge&logo=Redux&logoColor=594969)
 ![Vite](https://img.shields.io/badge/-Vite-262626?style=for-the-badge&logo=Vite&logoColor=ae75a9)
-![GitHub](https://img.shields.io/badge/-GitHub-262626?style=for-the-badge&logo=GitHub)
 ![NPM](https://img.shields.io/badge/-NPM-262626?style=for-the-badge&logo=NPM&logoColor=bf4f60)
 ![Axios](https://img.shields.io/badge/-Axios-262626?style=for-the-badge&logo=Axios&logoColor)
 ![Vitest](https://img.shields.io/badge/-Vitest-262626?style=for-the-badge&logo=Vitest)
