@@ -5,7 +5,7 @@
       <div class="typed-out">Beginner Web Developer</div>
     </div>
   </div>
-  <img class="img" src="./assets/cat-computer.gif">
+  <img alt="cat" class="img" src="assets/cat.gif">
 </div>
 
 <style>
@@ -55,7 +55,7 @@
 }
 </style>
 
-### Languages and Tools:
+### Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-262626?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-262626?style=for-the-badge&logo=CSS&logoColor=4472bb)
 ![SASS](https://img.shields.io/badge/-SASS-262626?style=for-the-badge&logo=SASS)
