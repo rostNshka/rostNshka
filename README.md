@@ -1,5 +1,4 @@
-## I'm Rostislav, I'm Beginner Web Developer
-<img style="width:64px; height:64px" class="img" src="./assets/cat.gif">
+![img_1.png](img_1.png)<img style="width:95px; height:95px" class="img" src="./assets/cat.gif">
 
 
 
