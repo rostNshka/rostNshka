@@ -10,7 +10,6 @@
 ![Vite](https://img.shields.io/badge/-Vite-262626?style=for-the-badge&logo=Vite&logoColor=ae75a9)
 ![NPM](https://img.shields.io/badge/-NPM-262626?style=for-the-badge&logo=NPM&logoColor=bf4f60)
 ![Axios](https://img.shields.io/badge/-Axios-262626?style=for-the-badge&logo=Axios&logoColor)
-![Vitest](https://img.shields.io/badge/-Vitest-262626?style=for-the-badge&logo=Vitest)
 ![Jest](https://img.shields.io/badge/-Jest-262626?style=for-the-badge&logo=Jest&logoColor=bf4f60)
 
 ### Follow Me
