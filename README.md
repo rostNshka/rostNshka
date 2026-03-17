@@ -15,6 +15,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-262626?style=for-the-badge&logo=Jest&logoColor=bf4f60)
 ![Node](https://img.shields.io/badge/-Node-262626?style=for-the-badge&logo=Node.js)
 ![postgreSQL](https://img.shields.io/badge/-postgreSQL-262626?style=for-the-badge&logo=postgreSQL)
+![Figma](https://img.shields.io/badge/-Figma-262626?style=for-the-badge&logo=Figma)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-262626?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/rostNshka)
