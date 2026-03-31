@@ -19,4 +19,3 @@
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-262626?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/rostNshka)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-262626?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/rostisheeshka)
